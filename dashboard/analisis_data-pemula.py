@@ -10,7 +10,7 @@ Original file is located at
 
 # Proyek Analisis Data: E-Commerce Public Dataset
 - Nama: **Rendy Prasetya**
-- Email: **rendyprasetya45@@gmail.com**
+- Email: **rendyprasetya45@gmail.com**
 - Id Dicoding: **rendypraas**
 
 ## Menentukan Pertanyaan Bisnis
