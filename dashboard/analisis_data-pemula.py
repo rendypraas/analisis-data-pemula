@@ -25,14 +25,18 @@ Original file is located at
 ## Menyaipkan semua library yang dibuthkan
 """
 
+!pip install --upgrade pip
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import seaborn as sns
-import urllib
-!pip install unidecode
+import urllib.request
 import unidecode
+import streamlit as st
+import geopandas as gpd
+from geodatasets import get_path
+import time
 
 """## Data Wrangling
 
