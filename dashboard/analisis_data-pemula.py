@@ -22,7 +22,7 @@ Original file is located at
 - Bagaimana profil demografis customer dan apakah ada perbedaan preferensi pembelian di antara mereka?
 - Customer terbanyak berdasarkan letak geografis, dimana saja?
 
-## Menyaipkan semua library yang dibuthkan
+## Menyaipkan semua library yang dibutuhkan
 """
 
 import numpy as np
