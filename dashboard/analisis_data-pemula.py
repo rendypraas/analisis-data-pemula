@@ -25,7 +25,6 @@ Original file is located at
 ## Menyaipkan semua library yang dibuthkan
 """
 
-!pip install --upgrade pip
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
