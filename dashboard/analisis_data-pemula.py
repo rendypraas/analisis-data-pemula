@@ -25,6 +25,7 @@ Original file is located at
 ## Menyaipkan semua library yang dibutuhkan
 """
 
+pip install unidecode
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
