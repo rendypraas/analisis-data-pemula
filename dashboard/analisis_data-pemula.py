@@ -25,7 +25,6 @@ Original file is located at
 ## Menyaipkan semua library yang dibutuhkan
 """
 
-pip install unidecode
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -33,6 +32,10 @@ import matplotlib.image as mpimg
 import seaborn as sns
 import urllib.request
 import streamlit as st
+from unidecode import unidecode
+import geopandas as gpd
+from geodatasets import get_path
+import time
 
 """## Data Wrangling
 
